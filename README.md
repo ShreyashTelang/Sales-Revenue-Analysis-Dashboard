@@ -24,7 +24,7 @@ The dashboard includes:
 
 > Add your dashboard screenshot inside the **Images** folder and update the path below.
 
-![Dashboard](Sales and Revenue Analysis Dashboard/Images/dashboard.png)
+![Dashboard](SalesandRevenueAnalysisDashboard/Images/Screenshot2026-06-29190606.png)
 
 ---
 
@@ -204,20 +204,6 @@ Sales-Revenue-Analysis-Dashboard/
 
 ---
 
-# 📊 Dashboard Components
-
-| Visualization | Purpose |
-|---------------|---------|
-| KPI Cards | Display business metrics |
-| Line Chart | Monthly Sales Trend |
-| Bar Chart | Sales by Category |
-| Bar Chart | Sales by Sub-Category |
-| Pie Chart | Sales by Segment |
-| Column Chart | Sales by Region |
-| Bar Chart | Top Selling Products |
-| Slicers | Dynamic Filtering |
-
----
 
 # 🔮 Future Improvements
 
