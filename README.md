@@ -24,7 +24,7 @@ The dashboard includes:
 
 > Add your dashboard screenshot inside the **Images** folder and update the path below.
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Sales and Revenue Analysis Dashboard/Images/dashboard.png)
 
 ---
 
@@ -236,12 +236,5 @@ Sales-Revenue-Analysis-Dashboard/
 **Shreyash Telang**
 
 Computer Engineering Student | Aspiring Data Analyst
-
-### Connect with me
-
-- GitHub: https://github.com/ShreyashTelang
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-
----
 
 ## ⭐ If you found this project helpful, don't forget to give it a star!
