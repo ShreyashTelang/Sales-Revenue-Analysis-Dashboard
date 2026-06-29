@@ -20,14 +20,6 @@ The dashboard includes:
 
 ---
 
-## 🚀 Dashboard Preview
-
-> Add your dashboard screenshot inside the **Images** folder and update the path below.
-
-![Dashboard](SalesandRevenueAnalysisDashboard/Images/Screenshot2026-06-29190606.png)
-
----
-
 # ✨ Features
 
 ### 📌 KPI Cards
